@@ -5,7 +5,8 @@ Team Wealth
 
 Plan : Housing Price; Tax delinquency; Population Density; Sales Transaction (Count of sales)
 @Evan Mains  Population Density
-@Qaplan Housing Price
+@NightTrain Housing Price
+@Qaplan: TAX
 @Jason Gao  Sales Transaction
 
 
