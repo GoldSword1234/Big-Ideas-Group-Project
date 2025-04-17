@@ -1,5 +1,5 @@
 Team Wealth
-Jason Gao jag409@pit.edu https://data.wprdc.org/dataset/real-estate-sales
+Jason Gao jag409@pit.edu https://data.wprdc.org/dataset/real-estate-sales | I used the data set that was the sales for 2024
 
 Ashish Subedi 
 ass152@pitt.edu 
