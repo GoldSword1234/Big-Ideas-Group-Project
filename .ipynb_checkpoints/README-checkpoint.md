@@ -1,13 +1,7 @@
-This is the final project for Group 15
-
 Team Wealth
+Jason Gao jag409@pit.edu https://data.wprdc.org/dataset/real-estate-sales
 
-
-Plan : Housing Price; Tax delinquency; Population Density; Sales Transaction (Count of sales)
-@Evan Mains  Population Density
-@NightTrain Housing Price
-@Qaplan: TAX
-@Jason Gao  Sales Transaction
-
-
-Goal: Richest Neighborhood
+Ashish Subedi 
+ass152@pitt.edu 
+https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/13982f58-e618-400c-8f69-6a32dbd7c68f
+This dataset contains prices for housing units for sale.
